@@ -1,0 +1,7 @@
+14. HTTP stands for Hyper Text Transfer Protocol and is used for communication among web servers.
+15. In this project, we will use HTTP version 1.0.  HTTP has a simple stateless client/server paradigm.
+16. The web client initiates a conversation by opening a connection to the server.  Once a connection
+is set up, the client sends up an HTTP request.
+
+
+I have something big.
